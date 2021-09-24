@@ -1,2 +1,4 @@
 # Bear-Detector
-Beare Detector
+Bear Detector
+
+Based on Fast-AI
