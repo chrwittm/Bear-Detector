@@ -1,6 +1,5 @@
 # Bear-Detector
-Bear Detector
 
-Based on Fast-AI
-
-Hmm, does not take files greater than 25MB -> https://forums.fast.ai/t/deploying-your-notebook-as-an-app-under-10-minutes/70621
+The Bear Detectoris based on the FastAI-Course by Jeremy Howard.
+For more details on this project, please refer to this notebook:
+https://github.com/chrwittm/Bear-Detector/blob/main/How_to_re_create_the_Bear_Detector_App.ipynb
